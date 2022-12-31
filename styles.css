@@ -3,14 +3,23 @@
     text-align: center;
 }
 
+#header1 {
+    font-size: 50px;
+    font-weight: bolder;
+
+}
+
 recipelink {
     font-size: 32px;
     list-style: none;
+    font-weight: bold;
+    color: black;
+    background-color: white;
 }
 
-shef {
+.shef {
     height: auto;
-    width: 700px;
+    width: 750px;
     display: block;
     margin-left: auto;
     margin-right: auto
