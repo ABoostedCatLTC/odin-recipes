@@ -1,7 +1,7 @@
 /*    */
 .content {
     text-align: center;
-    
+
 }
 
 #header1 {
@@ -31,22 +31,14 @@ recipelink {
 .recipescontent {
     font-size: 24px;
     font-family: 'Times New Roman', Times, serif;
-    
 }
-
-.column {
-    float: right;
-    width: 50%;
+.row {
+    display: flex;
   }
   
-  /* Clear floats after the columns */
-  .row:after {
-    content: "";
-    display: table;
-    clear: both;
+  .column {
+    flex: 50%;
   }
-
 /*Recipe*/
-
 
 /*Recipe*/
