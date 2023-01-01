@@ -34,11 +34,17 @@ recipelink {
 }
 .row {
     display: flex;
+    flex-direction: row-reverse;
   }
   
   .column {
-    flex: 50%;
+    flex: 75%;
   }
+
+  .img {
+  padding: 5px;
+  width: 150px;
+}
 /*Recipe*/
 
 /*Recipe*/
