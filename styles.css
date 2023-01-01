@@ -10,13 +10,13 @@ a {
   text-transform: uppercase;
 }
 #header1 {
-    font-size: 50px;
+    font-size: 400%;
     font-weight: bolder;
 
 }
 
 recipelink {
-    font-size: 32px;
+    font-size: 200%;
     list-style: none;
     font-weight: bold;
     color: black;
@@ -25,7 +25,7 @@ recipelink {
 
 .shef {
     height: auto;
-    width: 750px;
+    width: 60%;
     display: block;
     margin-left: auto;
     margin-right: auto
