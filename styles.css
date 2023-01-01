@@ -1,6 +1,7 @@
 /*    */
 .content {
     text-align: center;
+    
 }
 
 #header1 {
@@ -33,7 +34,6 @@ recipelink {
     
 }
 
-/*Pork Adobo*/
 .column {
     float: right;
     width: 50%;
