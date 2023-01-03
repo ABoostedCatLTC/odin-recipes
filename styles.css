@@ -13,12 +13,12 @@ a {
     font-weight: bolder;
 }
 
-recipelink {
+.recipelink {
     font-size: 200%;
     list-style: none;
     font-weight: bold;
     color: black;
-    background-color: white;
+    
 }
 
 .shef {
