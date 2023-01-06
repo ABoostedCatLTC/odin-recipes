@@ -19,7 +19,9 @@ a {
     font-weight: bold;
     color: black;
     margin: 5%;
-    
+}
+.recipelink :hover {
+  background-color: white;
 }
 
 .shef {
@@ -46,6 +48,11 @@ a {
   }
 
   .img {
-  width: 200%;
-  
+  width: 200%; 
+}
+.sourcelink {
+  font-weight: bold;
+}
+.sourcelink:hover {
+  background-color: white;
 }
